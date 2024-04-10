@@ -48,17 +48,29 @@ and user engagement metrics.
 2 Dataset Descriptions
 
 App: Name of the mobile application.
+
 Category: Category or genre to which the app belongs.
+
 Rating: User rating score of the app.
+
 Reviews: Number of user reviews/ratings for the app.
+
 Size: Size of the app installation package.
+
 Installs: Number of times the app has been installed.
+
 Type: Whether the app is free or paid.
+
 Price: Price of the app if it’s paid; otherwise, ‘0’ or ‘Free’.
+
 Content Rating: Content rating indicating suitability for different age groups.
+
 Genres: Specific genres or themes associated with the app.
+
 Last Updated: Date when the app was last updated.
+
 Current Ver: Current version of the app.
+
 Android Ver: Minimum required Android version to run the app.
 
 #Observations and conclusions
@@ -67,23 +79,30 @@ Android Ver: Minimum required Android version to run the app.
 Top Apps:
 The most popular app is ROBLOX with a rating of 9. Other notable apps include 8 Ball Pool,
 Bubble Shooter, Helix Jump, Zombie Catchers, Bowmasters, Candy Crush Saga, and Temple Run
+
 2.
 App Categories:
 The majority of apps fall into the FAMILY category (1717), followed by GAME (1074) and TOOLS
 (733).
+
 App Ratings:
 The most common ratings are 4.4, 4.3, and 4.5, indicating a generally positive user sentiment.
+
 App Sizes:
 A significant number of apps have a size that varies with the device (1637), with other common
 sizes around 14M, 12M, 15M, and 11M.
+
 Number of Installs:
 A large portion of apps has been installed over 1,000,000 times (1576), with other popular install
 ranges being 10,000,000+ and 100,000+.
+
 App Types:
 61
 The majority of apps are Free (8275), with only a small portion being Paid (611).
+
 App Genres:
 Top genres include Tools, Entertainment, Education, Action, and Productivity.
+
 Content Ratings:
 The majority of apps are rated Everyone (7089), followed by Teen, Mature 17+, and Everyone 10+.
 
@@ -94,19 +113,27 @@ The majority of apps are rated Everyone (7089), followed by Teen, Mature 17+, an
 
 Market Diversity:
 There appears to be significant diversity in the app market, with a notable emphasis on familyoriented and gaming applications.
+
 Positive Ratings:
 The distribution of user ratings suggests a general preference and liking, with a high proportion of
 apps receiving favorable ratings.
+
 High Installations:
 A large number of apps have been installed over a million times, indicating widespread popularity
 among users.
+
 Regular Updates:
 The presence of a substantial number of updates, especially around August 2018, indicates ongoing
 developer interest in enhancing and updating the applications.
+
 Trend Towards Free Apps:
 It appears that the majority of apps are offered for free, reflecting the prevalent trend of providing
+
 free services to users.
 Broad Android Version Support:
+
 Developers seem to target a wide range of Android operating system versions to ensure app compatibility with a diverse array of devices.
+
 User Engagement:
+
 Positive ratings and high installation numbers suggest strong user engagement with these applications.
